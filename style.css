@@ -108,6 +108,14 @@ button:hover {
     padding: 10px 40px;
 }
 
+#indice {
+    transition-property: color;
+    transition-duration: 1s;
+}
+#indice:hover {
+    color: #00FF00;
+}
+
 .indice{
   border: 3px solid var(--color2);
   background-color: var(--color4);
