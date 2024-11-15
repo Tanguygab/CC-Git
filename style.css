@@ -48,6 +48,10 @@ section{
     background-color: var(--color5);
 }
 
+#indice {
+  background-color: #00FF00;
+}
+
 section p{
     width: 50%;
     text-align: justify;
